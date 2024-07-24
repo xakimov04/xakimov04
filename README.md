@@ -21,6 +21,20 @@ I am a passionate Flutter developer with a keen interest in creating beautiful a
   ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=3DDC84)
   ![Xcode](https://img.shields.io/badge/-Xcode-05122A?style=flat&logo=xcode&logoColor=1575F9)
+- **Languages Tools**: 
+  ![BLoC](https://img.shields.io/badge/-BLoC-05122A?style=flat&logo=flutter&logoColor=0175C2)
+  ![Provider](https://img.shields.io/badge/-Provider-05122A?style=flat&logo=flutter&logoColor=02569B)
+  ![GetX](https://img.shields.io/badge/-GetX-05122A?style=flat&logo=getx&logoColor=FFD700)
+  ![REST API](https://img.shields.io/badge/-REST%20API-05122A?style=flat&logo=api&logoColor=29ABE2)
+  ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql&logoColor=E10098)
+  ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)
+  ![Hive](https://img.shields.io/badge/-Hive-05122A?style=flat&logo=hive&logoColor=E89E1C)
+  ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite&logoColor=003B57)
+  ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=github-actions&logoColor=2088FF)
+  ![RxDart](https://img.shields.io/badge/-RxDart-05122A?style=flat&logo=rxdart&logoColor=0062FF)
+  ![Flutter Local Notifications](https://img.shields.io/badge/-Flutter%20Local%20Notifications-05122A?style=flat&logo=flutter&logoColor=0175C2)
+  ![Dio](https://img.shields.io/badge/-Dio-05122A?style=flat&logo=dio&logoColor=1B6AC6)
+  ![Lottie](https://img.shields.io/badge/-Lottie-05122A?style=flat&logo=lottie&logoColor=F89C1C)
 
 ## 🌐 Connect with me
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mardon-hakimov-60aa892b2)
