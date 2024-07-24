@@ -1,4 +1,4 @@
-# Hello, I'm [Mardon Hakimov] 👋
+# Hello, I'm Mardon Hakimov 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
 
