@@ -17,7 +17,6 @@ I am a passionate Flutter developer with a keen interest in creating beautiful a
 
 ## 🌐 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/mardon-hakimov-60aa892b2)
-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
 - [Telegram](https://t.me/flutter_mobile_blog)
 
 ## 📊 GitHub Stats
