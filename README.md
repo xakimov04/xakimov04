@@ -8,11 +8,11 @@ I am a passionate Flutter developer with a keen interest in creating beautiful a
 - 🌱 I’m currently learning advanced Flutter techniques and exploring new packages.
 - 👯 I’m looking to collaborate on innovative Flutter projects.
 - 💬 Ask me about anything related to Flutter and Dart.
-- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
+- 📫 How to reach me: [your.email@example.com](mailto:mardonhakimov0404@gmail.com)
 
 ## 🛠️ Skills
-- **Languages**: Dart, Java, Kotlin, Swift
-- **Frameworks**: Flutter
+- **Languages**: Dart,
+- **Frameworks**: Flutter,
 - **Tools**: Git, GitHub, Visual Studio Code, Android Studio, Xcode
 
 ## 📝 Projects
@@ -29,8 +29,8 @@ A fully-functional online shop app using Bloc architecture and the Products API 
 A comprehensive guide to building a taxi app with Flutter.
 
 ## 🌐 Connect with me
-- [LinkedIn](https://linkedin.com/in/your-linkedin-profile)
-- [Twitter](https://twitter.com/your-twitter-handle)
+- [LinkedIn](linkedin.com/in/mardon-hakimov-60aa892b2)
+- [Telegram](@developer_000)
 - [Personal Website](https://your-website.com)
 
 ## 📊 GitHub Stats
