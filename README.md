@@ -17,6 +17,7 @@ I am a passionate Flutter developer with a keen interest in creating beautiful a
 
 ## 🌐 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/mardon-hakimov-60aa892b2)
+- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
 - [Telegram](https://t.me/flutter_mobile_blog)
 
 ## 📊 GitHub Stats
@@ -27,16 +28,3 @@ I am a passionate Flutter developer with a keen interest in creating beautiful a
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=onedark)
 
-## 🐱‍💻 My Favourites Quote
-*"The best way to predict the future is to invent it." - Alan Kay*
-
-## 📚 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Title of Blog Post 1](https://your-blog-link.com)
-- [Title of Blog Post 2](https://your-blog-link.com)
-- [Title of Blog Post 3](https://your-blog-link.com)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-⭐️ From [Your Name](https://github.com/your-github-username)
