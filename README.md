@@ -15,21 +15,8 @@ I am a passionate Flutter developer with a keen interest in creating beautiful a
 - **Frameworks**: Flutter,
 - **Tools**: Git, GitHub, Visual Studio Code, Android Studio, Xcode
 
-## 📝 Projects
-### [Music Player App](https://github.com/your-github-username/music-player-app)
-A Flutter music player app with lyrics display using `just_audio` and `on_audio_query`.
-
-### [Prayer Times App](https://github.com/your-github-username/prayer-times-app)
-An app to learn prayer times and how to perform prayers.
-
-### [Online Shop App](https://github.com/your-github-username/online-shop-app)
-A fully-functional online shop app using Bloc architecture and the Products API from Escuela.
-
-### [Taxi App](https://github.com/your-github-username/taxi-app)
-A comprehensive guide to building a taxi app with Flutter.
-
 ## 🌐 Connect with me
-- [LinkedIn](linkedin.com/in/mardon-hakimov-60aa892b2)
+- [LinkedIn]([linkedin.com/in/mardon-hakimov-60aa892b2](https://www.linkedin.com/in/mardon-hakimov-60aa892b2/))
 - [Telegram](@developer_000)
 - [Personal Website](https://your-website.com)
 
