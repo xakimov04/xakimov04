@@ -16,7 +16,7 @@ I am a passionate Flutter developer with a keen interest in creating beautiful a
 - **Tools**: Git, GitHub, Visual Studio Code, Android Studio, Xcode
 
 ## 🌐 Connect with me
-- [LinkedIn]([linkedin.com/in/mardon-hakimov-60aa892b2](https://www.linkedin.com/in/mardon-hakimov-60aa892b2/))
+- [LinkedIn](https://www.linkedin.com/in/mardon-hakimov-60aa892b2)
 - [Telegram](@developer_000)
 - [Personal Website](https://your-website.com)
 
