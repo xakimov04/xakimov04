@@ -46,4 +46,4 @@ I am a passionate Flutter developer with a keen interest in creating beautiful a
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xakimov04&layout=compact&theme=tokyonight)
 
 ## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=xakimov04&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=xakimov04&theme=tokyonight)
