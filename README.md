@@ -1,6 +1,6 @@
 # Hello, I'm Mardon Hakimov 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=xakimov04&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=xakimov04&color=green)
 
 I am a passionate Flutter developer with a keen interest in creating beautiful and functional mobile applications. Below you can find more about my work, skills, and projects.
 
